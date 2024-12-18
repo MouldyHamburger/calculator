@@ -5,4 +5,6 @@
 
 - overall disorganized
 
+- unnecessary repeated code
+
 - 'audio.mp3' must be in the same directory as calculator.exe or calculator.py
